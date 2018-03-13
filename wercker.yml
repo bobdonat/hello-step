@@ -1,5 +1,6 @@
 box: alpine
 
 build:
-  - steps:
-
+  steps:
+- name: application
+  type: string
