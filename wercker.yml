@@ -2,4 +2,4 @@ box: alpine
 
 build:
   steps:
-    - script:
+
