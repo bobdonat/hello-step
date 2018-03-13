@@ -1,0 +1,9 @@
+name: hello-step
+version: 0.1.0
+summary: Just say hello.
+tags:
+  - hello
+properties:
+- name: application
+  type: string
+required: true
