@@ -1,4 +1,5 @@
 box: alpine
 
 build:
-steps:
+  steps:
+    - script:
