@@ -1,4 +1,6 @@
 box: alpine
 
-- build:
+build:
+services:
+  steps:
   steps:
