@@ -1,9 +1,8 @@
-btw
+#btw
 
 box: alpine
 
 build:
-- foo
-- services
-  steps:
+#- foo
+# steps:
   steps:
